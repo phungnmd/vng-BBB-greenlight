@@ -1,0 +1,59 @@
+INFO: [3a5e54d1-0e5e-4cf0-bb02-ae32e9c0b543] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=553.76 view=484.37 db=18.89 host=greenlight 
+INFO: [9952f02c-ea92-484e-98f0-38a44ca65b53] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=240.91 view=23.54 db=38.00 host=greenlight 
+INFO: [372b9d86-6c56-4d3c-b105-137a12819689] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=124.70 view=26.61 db=60.24 host=greenlight 
+INFO: [b487bcb5-9a5d-4ae4-aab0-6d086ad5ea41] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=45.72 view=35.97 db=1.42 host=greenlight 
+INFO: [854f8fbd-40b5-4f55-a09a-c8ffe559f687] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=31.34 view=21.78 db=1.41 host=greenlight 
+INFO: [3ca1af66-a9ef-43b9-8ace-1cb788470ef0] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=30.89 view=21.73 db=1.53 host=greenlight 
+INFO: [c4862cc4-8e70-4705-9776-3349c5b0662b] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=33.48 view=23.57 db=1.51 host=greenlight 
+INFO: [f0997ee7-94c1-474a-b6a7-c78cfc833ec0] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=511.39 view=451.98 db=17.94 host=greenlight 
+INFO: [c14870fd-3070-4679-ab58-f144b4617daf] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=34.77 view=24.22 db=1.51 host=greenlight 
+INFO: [6189471e-a255-482f-9ae4-d82332fa0b5e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=30.95 view=21.36 db=1.57 host=greenlight 
+INFO: [5e8860dc-6a9e-45f2-99a7-6204ea91cd62] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=130.25 view=66.82 db=21.04 host=greenlight 
+INFO: [d251a2d8-6c7d-494f-b5fc-85e989488023] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=34.30 view=24.05 db=1.68 host=greenlight 
+INFO: [a1b2fd07-a532-4735-ba46-763330a90130] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=33.60 view=23.52 db=1.48 host=greenlight 
+INFO: [028ba13d-36e6-47a0-9f9b-328876b60e22] Support:  is attempting to login. 
+INFO: [028ba13d-36e6-47a0-9f9b-328876b60e22] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=14.19 view=0.00 db=2.48 location=http://34.80.108.222/b/signin host=greenlight 
+INFO: [58ba19b3-6c0b-4a90-b919-febbbe9a2c2a] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=44.46 view=35.65 db=1.25 host=greenlight 
+INFO: [b4af6f58-e177-4cb5-bd6c-dc4543c5556b] Support: phungnm@vng.com.vn is attempting to login. 
+INFO: [b4af6f58-e177-4cb5-bd6c-dc4543c5556b] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=11.36 view=0.00 db=2.13 location=http://34.80.108.222/b/signin host=greenlight 
+INFO: [20ba7d52-ca03-4270-913c-cec5800a8e5f] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=28.81 view=20.32 db=1.07 host=greenlight 
+INFO: [8681899a-b05d-4f13-8070-ff74ff715a2b] Support: phungnm@vng.com.vn is attempting to login. 
+INFO: [8681899a-b05d-4f13-8070-ff74ff715a2b] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=13.64 view=0.00 db=2.64 location=http://34.80.108.222/b/signin host=greenlight 
+INFO: [3294872c-e35c-49b6-abc3-0bbe49122977] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=31.39 view=22.96 db=1.05 host=greenlight 
+INFO: [b999f0da-d98f-4b35-bb16-da4a673bc588] Support: phungnm@vng.com.vn is attempting to login. 
+INFO: [b999f0da-d98f-4b35-bb16-da4a673bc588] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=20.87 view=0.00 db=3.48 location=http://34.80.108.222/b/signin host=greenlight 
+INFO: [a770298e-670d-41ff-b61b-e9737a6f9213] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=38.62 view=27.44 db=1.66 host=greenlight 
+INFO: [1f4b355c-3bd2-453a-bbff-8f65887521d7] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=35.76 view=26.39 db=1.43 host=greenlight 
+INFO: [b07130f0-6cb6-4f40-b22f-fc3923930ee2] method=GET path=/b/signup format=html controller=SessionsController action=new status=200 duration=77.67 view=32.98 db=3.33 host=greenlight 
+INFO: [0f84c3a2-6a8f-4e15-85bc-0fc909913b58] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=40.90 view=29.93 db=1.50 host=greenlight 
+INFO: [f04164f9-007d-4c80-a9d0-697b85beeaf8] Support: phungnm@vng.com.vn is attempting to login. 
+INFO: [f04164f9-007d-4c80-a9d0-697b85beeaf8] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=13.41 view=0.00 db=2.56 location=http://34.80.108.222/b/signin host=greenlight 
+INFO: [13aa803a-04dc-46fb-9501-a8ab98a38d3f] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=30.96 view=22.42 db=1.14 host=greenlight 
+INFO: [ac2d39ef-2c7d-4578-a3a4-8e0f8a9e2236] method=GET path=/b/signup format=html controller=SessionsController action=new status=200 duration=34.53 view=25.12 db=1.14 host=greenlight 
+INFO: [1f069f54-e19c-4ee0-a90a-43cddb49e764] Support: test@gmail.com user has been created. 
+INFO: [1f069f54-e19c-4ee0-a90a-43cddb49e764] Support: test@gmail.com has successfully logged in. 
+INFO: [1f069f54-e19c-4ee0-a90a-43cddb49e764] method=POST path=/b/signup format=html controller=UsersController action=create status=302 duration=580.66 view=0.00 db=49.39 location=http://34.80.108.222/b/signin/ host=greenlight 
+INFO: [b5737245-e781-4e2c-9a8b-ba887b05973f] method=GET path=/b/signin format=html controller=SessionsController action=signin status=302 duration=17.51 view=0.00 db=3.20 location=http://34.80.108.222/b/tes-dag-kph host=greenlight 
+INFO: [6b6a1caa-06e4-4827-abe8-1f01157e16e7] method=GET path=/b/tes-dag-kph format=html controller=RoomsController action=show status=200 duration=198.62 view=69.08 db=45.45 host=greenlight 
+INFO: [ed2cbb13-2ee1-4c70-93f5-3a251d83fa07] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=11.50 view=0.00 db=2.36 location=http://34.80.108.222/b/ host=greenlight 
+INFO: [27150f95-2a71-41b4-9ae6-65e642badf27] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=49.91 view=39.75 db=1.33 host=greenlight 
+INFO: [c702bc67-c6b8-4746-9f11-400a67d195d6] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=35.67 view=23.56 db=1.74 host=greenlight 
+INFO: [aadea418-684b-4fa3-9448-cd0781e2fb21] Support: test@gmail.com is attempting to login. 
+INFO: [aadea418-684b-4fa3-9448-cd0781e2fb21] Support: test@gmail.com has successfully logged in. 
+INFO: [aadea418-684b-4fa3-9448-cd0781e2fb21] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=315.70 view=0.00 db=3.91 location=http://34.80.108.222/b/tes-dag-kph host=greenlight 
+INFO: [0035269a-f07b-47db-aa91-39fd830b3f06] method=GET path=/b/tes-dag-kph format=html controller=RoomsController action=show status=200 duration=103.99 view=35.08 db=14.37 host=greenlight 
+INFO: [472c30a4-ba2e-4552-9dfd-34fa0221a09a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=647.05 view=427.16 db=110.93 host=greenlight 
+INFO: [4701b46a-cd92-4089-82ef-873e2d3a67a8] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=36.41 view=26.53 db=1.55 host=greenlight 
+INFO: [dc60ba54-ce13-4d42-a225-ff408aaabcdf] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=547.24 view=412.20 db=33.21 host=greenlight 
+INFO: [2f86f503-cd25-4166-87b3-cfad766e7f1f] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=14.30 view=0.00 db=3.00 location=http://34.80.108.222/b/ host=greenlight 
+INFO: [4457c342-1083-4082-bcd9-3fde1babb87e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=34.98 view=25.28 db=1.48 host=greenlight 
+INFO: [fd179fa4-3137-4fbd-b902-ec6ab41a8635] method=GET path=/b/signup format=html controller=SessionsController action=new status=200 duration=48.50 view=34.86 db=1.47 host=greenlight 
+INFO: [05eb511c-7b51-444a-aa9e-f59602df4e7a] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=44.25 view=33.70 db=1.36 host=greenlight 
+INFO: [b0f6dac2-d4d6-4dab-976d-1a941ffd0b6e] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=33.71 view=23.83 db=1.63 host=greenlight 
+INFO: [e8a33a9b-90b4-4ccf-9bbc-e670690ab1a7] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=134.85 view=66.72 db=17.99 host=greenlight 
+INFO: [e8eff575-0c69-4b7d-a9f6-bd05186f2367] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=29.39 view=20.30 db=1.30 host=greenlight 
+INFO: [0c2c2d85-1fd7-4b8e-8b27-891e3242d26b] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=35.42 view=26.72 db=1.27 host=greenlight 
+INFO: [656caf06-4f2d-48f5-a4ac-be794e17ebe8] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=39.92 view=30.08 db=1.57 host=greenlight 
+INFO: [2604754b-f18b-4207-80c0-43e72d3b0ecc] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=29.10 view=20.22 db=1.43 host=greenlight 
+INFO: [c3939dd3-9590-4341-a973-b15857d964c9] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=33.02 view=23.54 db=1.74 host=greenlight 
+INFO: [55a12ca1-7911-442c-98b4-082ba57ad9b9] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=33.18 view=23.32 db=1.10 host=greenlight 
