@@ -282,6 +282,11 @@ GEM
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
     ruby-progressbar (1.10.1)
+    rubycas-client (2.3.9)
+      activesupport
+    rubycas-client-rails (0.1.0)
+      rails (>= 3.0.0)
+      rubycas-client (>= 2.2.0)
     safe_yaml (1.0.5)
     sassc (2.0.1)
       ffi (~> 1.9)
@@ -340,7 +345,7 @@ GEM
       hashdiff (>= 0.4.0, < 2.0.0)
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.4)
+    websocket-extensions (0.1.5)
     xml-simple (1.1.5)
 
 PLATFORMS
@@ -387,6 +392,7 @@ DEPENDENCIES
   remote_syslog_logger
   rspec-rails (~> 3.7)
   rubocop
+  rubycas-client-rails
   sassc-rails
   sequel
   shoulda-matchers (~> 3.1)
