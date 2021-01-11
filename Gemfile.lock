@@ -251,7 +251,7 @@ GEM
       ffi (~> 1.0)
     recaptcha (5.0.0)
       json
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     redis (4.1.2)
     remote_syslog_logger (1.0.4)
       syslog_protocol
@@ -282,6 +282,11 @@ GEM
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
     ruby-progressbar (1.10.1)
+    rubycas-client (2.3.9)
+      activesupport
+    rubycas-client-rails (0.1.0)
+      rails (>= 3.0.0)
+      rubycas-client (>= 2.2.0)
     safe_yaml (1.0.5)
     sassc (2.0.1)
       ffi (~> 1.9)
@@ -387,6 +392,7 @@ DEPENDENCIES
   remote_syslog_logger
   rspec-rails (~> 3.7)
   rubocop
+  rubycas-client-rails
   sassc-rails
   sequel
   shoulda-matchers (~> 3.1)
